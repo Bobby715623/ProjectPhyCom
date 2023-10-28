@@ -12,12 +12,12 @@
 > * เพิ่มความสะดวกสบาย
 
 ## อุปกรณ์
-1 ถังขยะ
-2 breadboard
-3 arduno uno
-4 ultrasonic module
-5 สายไฟ
-6 Sg90 Micro Servo Motor
+> * ถังขยะ
+> * breadboard
+> * arduno uno
+> * ultrasonic module
+> * สายไฟ
+> * Sg90 Micro Servo Motor
 ## โปสเตอร์
 
 
