@@ -19,6 +19,7 @@
 > * สายไฟ
 > * Sg90 Micro Servo Motor
 ## โปสเตอร์
+![Uploading Magic Bin.png…]()
 
 
 ## ชิ้นงาน
