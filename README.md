@@ -23,6 +23,9 @@
 
 
 ## ชิ้นงาน
+![396628924_1028561701810988_23533108449592023_n](https://github.com/Bobby715623/ProjectPhyCom/assets/118421368/51b3480b-af2a-459c-8bcd-f6a2e330836b)
+![369583041_261374433132971_3270649359921496871_n](https://github.com/Bobby715623/ProjectPhyCom/assets/118421368/a93f7a47-a5fe-42cd-b357-111fd539471c)
+
 ## code สำหรับชิ้นงาน
 ```
 #include <Servo.h>   //servo library
