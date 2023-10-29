@@ -19,7 +19,8 @@
 > * สายไฟ
 > * Sg90 Micro Servo Motor
 ## โปสเตอร์
-![Magic Bin (1)](https://github.com/Bobby715623/ProjectPhyCom/assets/118421368/3eae151c-c883-41e2-9a98-1da7d5a639bc)
+![Magic Bin (2)](https://github.com/Bobby715623/ProjectPhyCom/assets/118421368/79b120cc-8bc7-4720-a0d7-8caf18308ca8)
+
 
 
 ## ชิ้นงาน
