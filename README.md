@@ -65,7 +65,7 @@ if ( distance<30 ) {
 ```
 
 ## วิดิโอนำเสนอชิ้นงาน
-yotubeลิ้วนี้
+[yotubeลิ้วนี้](https://youtu.be/KFZJvuxd8Zw)
 
 ## Members
 | Student ID | ชื่อ - นามสกุล |
